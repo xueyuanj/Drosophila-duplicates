@@ -21,3 +21,6 @@ To get Ka, Ks or Ka/Ks ratio, run PAML
 
 Parse the PAML results
 --> get.dnds.py
+
+Keep in mind that all the jobs can be run on cluster $qsub -A rua15_collab *
+--> cluster.job.txt
